@@ -1,5 +1,5 @@
 <header>
-<img src="https://crates.io/assets/Cargo-Logo-Small.png" alt="logo" height="100" align="left">
+<img src="https://crates.io/assets/cargo.png" alt="logo" height="100" align="left">
 <h1 style="display: inline">Crates.ts</h1>
 
 Cargo crate API SDK written in TypeScript/Deno
